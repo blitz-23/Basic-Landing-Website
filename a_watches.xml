@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE watches SYSTEM "watchRules.dtd">
+
+
+<watches>
+    <Brand Name="Fossil" >
+        <name id="1" type="Smartwatch">Fossil Collider Hybrid Hr Smartwatch Black Dial Men's Watch - FTW7010
+            <color>Black</color>
+            <warranty>2 Years</warranty>
+        </name>
+
+
+        <name id="2" type="Analogue">Fossil Grant Chronograph Analog Black Dial Men's Watch - FS4832
+            <color>Black</color>
+            <warranty>2 Years</warranty>
+        </name>
+
+
+        <name id="3" type="Analogue">Fossil Analog Brown Dial Men's Watch - ME3098
+            <color>Brown</color>
+            <warranty>2 Years</warranty>
+        </name>
+    </Brand>
+
+
+
+
+    
+    <Brand Name="Casio">
+        <name id="1" type="Analogue">Casio Edifice Analog Blue Dial Men's Watch - EFR-556PC-2AVUDF (EX386)
+            <color>Black</color>
+            <warranty>2 Years</warranty>
+        </name>
+
+
+        <name id="2" type="Analoguel">Casio Edifice Analog Black Dial Men's Watch-EFS-S560DC-1AVUDF (ED499)
+            <color>Black</color>
+            <warranty>2 Years</warranty>
+        </name>
+
+        <name id="3" type="Analogue-Digital">Casio Analog-Digital Black Dial Men's Watch-ECB-900DB-1ADR (EX499)
+            <color>Black Dial and Silver Band</color>
+            <warranty>2 Years</warranty>
+        </name>
+    </Brand>
+</watches>

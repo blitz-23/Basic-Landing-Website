@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+targetNamespace="http://www.telusko.com/AlienSchema"
+xmls:tns="http://www.telusko.com/AlienSchema"
+elementFormDefault="qualified">
+
+
+<complexType name="watchesType">
+    <sequence>
+        <element name="Brand" type="tns:brandtype" maxOccurs="6" minOccurs="1"></element>
+    </sequence>
+<complexType>
+
+<complexType name="BrandsType">
+    <sequence>
+        <element name="name" type="tns:nametype"></element>
+    </sequence>
+    <attribute name="id" type="ID" use="required"></attribute>
+</complexType>
+
+<complexType name="colorType">
+    <sequence>
+        <element name="color" type="string"></element>
+        <element name="warranty" type="string"></element>
+    </sequence>
+</complexType>
+
+    <element name="globalbrand" type="tns:brandtype"/>
+
+<simpleType name="id">
+    <restriction base="integer">
+        <minInclusive value="3"></minInclusive>
+        <maxInclusive vlaue="6"></maxInclusive>
+    </restriction>
+</simpleType>
+
+</schema>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:globalbrand
+xmlns:tns="http://www.telusko.com/AlienSchema"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemalLocation="http://www.telusko.com/AlienSchema">
+
+    <tns:watch>
+        <tns:brand>
+                <tns:name id="1">
+                    <tns:color>Black Fossil</tns:color>
+                    <tns:warranty>2years</tns:warranty>
+                <tns:name>
+
+                <tns:name id="2">
+                    <tns:color>Black Fossil</tns:color>
+                    <tns:warranty>2years</tns:warranty>
+                <tns:name>
+
+                <tns:name id="3">
+                    <tns:color>Brown Fossil</tns:color>
+                    <tns:warranty>2years</tns:warranty>
+                <tns:name>
+        
+
+        
+                <tns:name id="4">
+                    <tns:color>Black Casio Edifice</tns:color>
+                    <tns:warranty>2years</tns:warranty>
+                <tns:name>
+
+                <tns:name id="5">
+                    <tns:color>Black Casio Edifice</tns:color>
+                    <tns:warranty>2years</tns:warranty>
+                <tns:name>
+
+                <tns:name id="6">
+                    <tns:color>Black Dial and Silver Band Casio Edifice</tns:color>
+                    <tns:warranty>2years</tns:warranty>
+                <tns:name>
+        <tns:brand>
+    </tns:watch>
+</tns:globalbrand>
