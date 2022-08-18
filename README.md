@@ -1,2 +1,2 @@
 # Landing
-Basic Landing Website with box-shadows, images
+Basic Landing Website with box-shadows & Hovering Effects.
